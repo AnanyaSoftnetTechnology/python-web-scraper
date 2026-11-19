@@ -1,0 +1,6 @@
+Item,Supplier,Quantity,Delivered
+Computer,ABC Computers,10,True
+Printer,XYZ Technologies,5,False
+Scanner,ABC Computers,3,False
+Monitor,Tech Solutions,8,True
+Laptop,Dell Technologies,6,True
